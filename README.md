@@ -2,6 +2,9 @@
 
 A simple client-server program using UNIX signals for communication.
 
+![Mini](https://raw.githubusercontent.com/isilva-t/42.minitalk/main/img/minitalk.jpg)
+
+
 ## What it does
 
 - Server starts and displays its PID
